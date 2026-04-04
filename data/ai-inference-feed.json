@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T09:57:39.649Z",
+  "generated_at": "2026-04-04T11:03:50.339Z",
   "update_interval": "6h",
   "description": "AI inference provider cost and latency rankings. Ranked by composite value score (70% cost, 30% latency).",
   "provider_count": 12,
@@ -10,7 +10,7 @@
     "model": "llama-3.1-8b",
     "cost_per_1k_input": 0.00005,
     "cost_per_1k_output": 0.00008,
-    "latency_ms": 185,
+    "latency_ms": 183,
     "available": true,
     "score": 1.06
   },
@@ -30,7 +30,7 @@
     "model": "llama-3.1-8b",
     "cost_per_1k_input": 0.00005,
     "cost_per_1k_output": 0.00008,
-    "latency_ms": 185,
+    "latency_ms": 183,
     "available": true,
     "score": 1.06
   },
@@ -40,7 +40,7 @@
     "model": "llama-3.1-8b",
     "cost_per_1k_input": 0.00005,
     "cost_per_1k_output": 0.00008,
-    "latency_ms": 185,
+    "latency_ms": 183,
     "available": true,
     "score": 1.06
   },
@@ -51,7 +51,7 @@
       "model": "llama-3.1-8b",
       "cost_per_1k_input": 0.00005,
       "cost_per_1k_output": 0.00008,
-      "latency_ms": 185,
+      "latency_ms": 183,
       "available": true,
       "score": 1.06
     },
@@ -61,9 +61,9 @@
       "model": "gpt-4o-mini",
       "cost_per_1k_input": 0.00015,
       "cost_per_1k_output": 0.0006,
-      "latency_ms": 105,
+      "latency_ms": 111,
       "available": true,
-      "score": 3.73
+      "score": 3.75
     },
     {
       "id": "deepseek-chat",
@@ -71,9 +71,9 @@
       "model": "deepseek-chat",
       "cost_per_1k_input": 0.00014,
       "cost_per_1k_output": 0.00028,
-      "latency_ms": 671,
+      "latency_ms": 801,
       "available": true,
-      "score": 3.73
+      "score": 4.12
     },
     {
       "id": "groq-llama3",
@@ -81,9 +81,9 @@
       "model": "llama-3.3-70b",
       "cost_per_1k_input": 0.00059,
       "cost_per_1k_output": 0.00079,
-      "latency_ms": 196,
+      "latency_ms": 182,
       "available": true,
-      "score": 5.77
+      "score": 5.73
     },
     {
       "id": "anthropic-haiku",
@@ -91,9 +91,9 @@
       "model": "claude-haiku-4-5",
       "cost_per_1k_input": 0.00025,
       "cost_per_1k_output": 0.00125,
-      "latency_ms": 144,
+      "latency_ms": 116,
       "available": true,
-      "score": 7.43
+      "score": 7.35
     },
     {
       "id": "together-llama3",
@@ -101,9 +101,9 @@
       "model": "llama-3-70b",
       "cost_per_1k_input": 0.0009,
       "cost_per_1k_output": 0.0009,
-      "latency_ms": 436,
+      "latency_ms": 560,
       "available": true,
-      "score": 7.61
+      "score": 7.98
     },
     {
       "id": "mistral-small",
@@ -111,9 +111,9 @@
       "model": "mistral-small",
       "cost_per_1k_input": 0.001,
       "cost_per_1k_output": 0.003,
-      "latency_ms": 324,
+      "latency_ms": 404,
       "available": true,
-      "score": 18.47
+      "score": 18.71
     },
     {
       "id": "mistral-large",
@@ -121,9 +121,9 @@
       "model": "mistral-large",
       "cost_per_1k_input": 0.003,
       "cost_per_1k_output": 0.009,
-      "latency_ms": 332,
+      "latency_ms": 400,
       "available": true,
-      "score": 53.5
+      "score": 53.7
     },
     {
       "id": "openai-gpt4o",
@@ -141,9 +141,9 @@
       "model": "command-r-plus",
       "cost_per_1k_input": 0.0025,
       "cost_per_1k_output": 0.01,
-      "latency_ms": 400,
+      "latency_ms": 521,
       "available": true,
-      "score": 58.08
+      "score": 58.44
     },
     {
       "id": "anthropic-sonnet",
@@ -151,9 +151,9 @@
       "model": "claude-sonnet-4-5",
       "cost_per_1k_input": 0.003,
       "cost_per_1k_output": 0.015,
-      "latency_ms": 142,
+      "latency_ms": 118,
       "available": true,
-      "score": 84.43
+      "score": 84.35
     },
     {
       "id": "perplexity-sonar",
@@ -161,9 +161,9 @@
       "model": "sonar-pro",
       "cost_per_1k_input": 0.003,
       "cost_per_1k_output": 0.015,
-      "latency_ms": 250,
+      "latency_ms": 335,
       "available": true,
-      "score": 84.75
+      "score": 85.01
     }
   ],
   "unavailable": []
